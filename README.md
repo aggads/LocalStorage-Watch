@@ -1,4 +1,4 @@
-#Local Storage
+Local Storage
 ---
 
 Web Storage or "Dom Storage" is a solution to store data localy in the browser.
@@ -14,7 +14,7 @@ With the web storage we have 2 methodes.
 The difference is just if you close your browser or tab if the data are still stored or not.
 But both is not secure. (Everyone can find easily your data)
 
-#How use it ?
+How use it ?
 ---
 
 **setItem(key, value)**
