@@ -40,12 +40,12 @@ ex:
 **.lengt**
 Get the number of keys stored
 ex: 
->localStorage.length;
+>localStorage.**length**;
 
 **.key()**
 Get a key with specific index
 ex: 
->localStorage.key(0);
+>localStorage.**key(0)**;
 
 **Direct access:**
 
@@ -53,7 +53,7 @@ ex:
 
 >console.log(localStorage.position);
 
-#Store object (Json)
+Store object (Json)
 --- 
 
 **Store**
